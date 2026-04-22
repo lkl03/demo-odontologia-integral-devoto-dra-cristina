@@ -1,2 +1,7 @@
-# demo-odontologia-integral-devoto-dra-cristina
-Demo web para Odontologia Integral Devoto - Dra Cristina Alvarez — diseñada por eterlab.
+# Odontologia Integral Devoto - Dra Cristina Alvarez
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
